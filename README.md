@@ -13,8 +13,9 @@ Welcome to the Secure Authentication and Authorization System! This project is a
 - User registration with secure password hashing using bcrypt
 - User login with session-based authentication
 - Access control using role-based authorization
-- Password reset functionality with email notifications (Adding)
-- Account activation via email confirmation (Adding)
+- Password reset functionality with email notifications
+- Account activation via email confirmation
+- OTP verifictaion
 
 
 ## Tutorial
